@@ -1,0 +1,9 @@
+body{
+    background-color:lightpink;
+    background-image: url(image5.jpeg);
+    min-height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
